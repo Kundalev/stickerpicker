@@ -1,6 +1,7 @@
 {
   "packs": [
-    "emotes.json"
+    "emotes.json",
+    "jjaba.json"
   ],
   "homeserver_url": "https://evakyator.dev"
 }
